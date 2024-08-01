@@ -1,0 +1,9 @@
+.defBtn {
+	padding: 5px 15px;
+	color: black;
+	border: 1px solid black;
+	font-size: 14px;
+	background: transparent;
+	cursor: pointer;
+	gap: 20px;
+}
